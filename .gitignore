@@ -3,3 +3,4 @@ CODEX_TASK_*.md
 .codex/start-task.sh
 .codex/task-*.log
 .codex/task-*.status
+.agents/skills/
