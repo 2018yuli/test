@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Cranelift home page",
+    "source_url": "https://cranelift.dev/",
+    "source_file": "docs/source/00-cranelift-home.md",
+    "bilingual_file": "docs/bilingual/00-cranelift-home.zh-en.md",
+    "sha256": "8863f0ef5ec224525ed20093415fde271839c3e7ab61c00e1ae7b6230ba0abaa"
+  },
+  {
+    "title": "Cranelift documentation index",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/docs/index.md",
+    "source_file": "docs/source/01-index.md",
+    "bilingual_file": "docs/bilingual/01-index.zh-en.md",
+    "sha256": "8d3a42e47312570e1f70d6133ce011905ffbc6d90f262fa0e06100c145eb1260"
+  },
+  {
+    "title": "Cranelift IR",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/docs/ir.md",
+    "source_file": "docs/source/02-ir.md",
+    "bilingual_file": "docs/bilingual/02-ir.zh-en.md",
+    "sha256": "1261492130017c59e1aca3a4ab6b3c02954a90af2fe7bc625a48211aafd44c34"
+  },
+  {
+    "title": "Cranelift testing",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/docs/testing.md",
+    "source_file": "docs/source/03-testing.md",
+    "bilingual_file": "docs/bilingual/03-testing.zh-en.md",
+    "sha256": "c4e69c9d4458c10a412a171121588482a036595ba72e3fa6a03219f2502ff740"
+  },
+  {
+    "title": "Comparison with LLVM",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/docs/compare-llvm.md",
+    "source_file": "docs/source/04-compare-llvm.md",
+    "bilingual_file": "docs/bilingual/04-compare-llvm.zh-en.md",
+    "sha256": "f707e8622ebdc39bc76e6d059bfc342f2e60ec9706cd1c154297c805fc6459bd"
+  },
+  {
+    "title": "ISLE integration",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/docs/isle-integration.md",
+    "source_file": "docs/source/05-isle-integration.md",
+    "bilingual_file": "docs/bilingual/05-isle-integration.zh-en.md",
+    "sha256": "83b853cfd6bcf600f31b0d2edcc4716a1e7a90818b9ef449995514600b65c475"
+  },
+  {
+    "title": "ISLE language reference",
+    "source_url": "https://raw.githubusercontent.com/bytecodealliance/wasmtime/main/cranelift/isle/docs/language-reference.md",
+    "source_file": "docs/source/06-isle-language-reference.md",
+    "bilingual_file": "docs/bilingual/06-isle-language-reference.zh-en.md",
+    "sha256": "b309c8f84bd5810ed320defea0eaca691fb9983e5d2a84daca6d7c189133090e"
+  }
+]
